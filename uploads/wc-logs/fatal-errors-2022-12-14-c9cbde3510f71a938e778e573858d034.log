@@ -1,0 +1,36 @@
+2022-12-14T14:09:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:09:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:09:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/media.php on line 3771
+
+2022-12-14T14:10:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:10:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/media.php on line 3771
+
+2022-12-14T14:10:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:10:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:10:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/media.php on line 3771
+
+2022-12-14T14:10:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:10:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 8192 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/media.php on line 3771
+
+2022-12-14T14:24:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:24:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:53:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:53:18+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:53:20+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:53:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 12288 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/media.php on line 3771
+
+2022-12-14T14:53:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
+2022-12-14T14:53:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/vol3_7/epizy.com/epiz_33006056/htdocs/wp-includes/class-wp-image-editor-gd.php on line 111
+
